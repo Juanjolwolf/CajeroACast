@@ -1,6 +1,7 @@
 ﻿Public Class Form1
 
     Public contraseña As Integer = 115
+    Public saldo As Integer = 1000000000
 
     Private Sub Button13_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button13.Click
         End
