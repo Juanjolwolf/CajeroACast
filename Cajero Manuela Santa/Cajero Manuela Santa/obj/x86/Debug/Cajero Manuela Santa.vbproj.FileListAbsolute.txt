@@ -1,0 +1,17 @@
+C:\Users\winic\Desktop\Cosas JJJ\Cajero Manuela Santa\Cajero Manuela Santa\bin\Debug\Cajero Manuela Santa.exe
+C:\Users\winic\Desktop\Cosas JJJ\Cajero Manuela Santa\Cajero Manuela Santa\bin\Debug\Cajero Manuela Santa.pdb
+C:\Users\winic\Desktop\Cosas JJJ\Cajero Manuela Santa\Cajero Manuela Santa\bin\Debug\Cajero Manuela Santa.xml
+C:\Users\winic\Desktop\Cosas JJJ\Cajero Manuela Santa\Cajero Manuela Santa\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\winic\Desktop\Cosas JJJ\Cajero Manuela Santa\Cajero Manuela Santa\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\winic\Desktop\Cosas JJJ\Cajero Manuela Santa\Cajero Manuela Santa\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\winic\Desktop\Cosas JJJ\Cajero Manuela Santa\Cajero Manuela Santa\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\winic\Desktop\Cosas JJJ\Cajero Manuela Santa\Cajero Manuela Santa\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\winic\Desktop\Cosas JJJ\Cajero Manuela Santa\Cajero Manuela Santa\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\winic\Desktop\Cosas JJJ\Cajero Manuela Santa\Cajero Manuela Santa\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\winic\Desktop\Cosas JJJ\Cajero Manuela Santa\Cajero Manuela Santa\obj\x86\Debug\Cajero Manuela Santa.vbproj.GenerateResource.Cache
+C:\Users\winic\Desktop\Cosas JJJ\Cajero Manuela Santa\Cajero Manuela Santa\obj\x86\Debug\Cajero Manuela Santa.exe
+C:\Users\winic\Desktop\Cosas JJJ\Cajero Manuela Santa\Cajero Manuela Santa\obj\x86\Debug\Cajero Manuela Santa.xml
+C:\Users\winic\Desktop\Cosas JJJ\Cajero Manuela Santa\Cajero Manuela Santa\obj\x86\Debug\Cajero Manuela Santa.pdb
+C:\Users\winic\Desktop\Cosas JJJ\Proyectos\CajeroACast\Cajero Manuela Santa\Cajero Manuela Santa\obj\x86\Debug\Cajero Manuela Santa.exe
+C:\Users\winic\Desktop\Cosas JJJ\Proyectos\CajeroACast\Cajero Manuela Santa\Cajero Manuela Santa\obj\x86\Debug\Cajero Manuela Santa.xml
+C:\Users\winic\Desktop\Cosas JJJ\Proyectos\CajeroACast\Cajero Manuela Santa\Cajero Manuela Santa\obj\x86\Debug\Cajero Manuela Santa.pdb
